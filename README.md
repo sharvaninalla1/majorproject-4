@@ -1,3 +1,3 @@
-# majorproject-4
+# majorproject- EDUMATCH
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/sharvaninalla1/majorproject-4)
+[Edit and view code here](https://stackblitz.com/~/github.com/sharvaninalla1/majorproject-4)
